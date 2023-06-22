@@ -14,4 +14,4 @@ The main features for the Device are:
 
 It is possible to do this same functionality with a universal RF remote control like Broadlink, but I had little success in some tests that I did with this type of devices and with 433Mhz RF signals and in the end it was more expensive and complicated to configure so I decided to try the DIY route.
 
-For mor details check the documentation at: https://github.com/jamozu/ShadeRemote/blob/main/BlindMotor_Remote_V1.pdf
+For more details check the documentation at: https://github.com/jamozu/ShadeRemote/blob/main/BlindMotor_Remote_V1.pdf

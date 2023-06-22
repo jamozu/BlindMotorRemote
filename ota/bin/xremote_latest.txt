@@ -1,0 +1,1 @@
+{"XM01":{"version":"0.1.06","file":"xRemoteD1MV000106XM01.bin"},"XN01":{"version":"0.1.04a","file":"xRemoteD1MV000104AXN01.bin"},"XG01":{"version":"0.1.04a","file":"xRemoteD1MV000104AXG01.bin"}}
